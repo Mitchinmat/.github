@@ -1,8 +1,8 @@
-# <img src="./resources/img/logo.png" width="20px"/> 믿친맛(믿을 수 있는 친구들의 맛집 공유 서비스)
+# <img src="../resources/img/logo.png" width="20px"/> 믿친맛(믿을 수 있는 친구들의 맛집 공유 서비스)
 
 
 <br/>
-<img src="./resources/img/main.png" />
+<img src="../resources/img/main.png" />
 <br/><br/>
 
 > '믿친맛'은 믿을 수 있는 친구들과 맛집을 공유하는 서비스입니다.  
@@ -95,11 +95,11 @@
 
 | **Register Page** | **Main Page** | **Main Page** |
 | :------: | :------: |:------: |
-|<img src="./resources/gif/맛집신규등록.gif" height="400">|<img src="./resources/gif/현재위치검색.gif" height="400">| <img src="./resources/gif/맛집 페이지네이션.gif" height="400">|
+|<img src="../resources/gif/맛집신규등록.gif" height="400">|<img src="../resources/gif/현재위치검색.gif" height="400">| <img src="../resources/gif/맛집 페이지네이션.gif" height="400">|
 
 | **Detail Page** | **Memo/Review Page** |**Search Page** |
 | :------: | :------: |:------: |
-|<img src="./resources/gif/마커클릭상세보기.gif" height="400">|<img src="./resources/gif/메모_리뷰.gif" height="400">|<img src="./resources/gif/맛집검색.gif" height="400">|
+|<img src="../resources/gif/마커클릭상세보기.gif" height="400">|<img src="../resources/gif/메모_리뷰.gif" height="400">|<img src="../resources/gif/맛집검색.gif" height="400">|
 
 
 <br>
@@ -108,7 +108,7 @@
 
 | **DM Page** | **Friend Map Page** | **Public/Private Toggle** |
 | :------: | :------: |:------: |
-|<img src="./resources/gif/DM.gif" height="400">|<img src="./resources/gif/친구_친구지도.gif" height="400">| <img src="./resources/gif/공개 비공개 토글.gif" height="400">|
+|<img src="../resources/gif/DM.gif" height="400">|<img src="../resources/gif/친구_친구지도.gif" height="400">| <img src="../resources/gif/공개 비공개 토글.gif" height="400">|
 
 
 <br>
@@ -117,7 +117,7 @@
 
 | **Login Page** | **My Page** |
 | :------: |:------: |
-|<img src="./resources/gif/소셜로그인.gif" height="400">|<img src="./resources/gif/마이페이지.gif" height="400">
+|<img src="../resources/gif/소셜로그인.gif" height="400">|<img src="../resources/gif/마이페이지.gif" height="400">
 
 
 
@@ -131,23 +131,23 @@
 <table>
   <tr>
     <td style="text-align:center;">
-      <img src="./resources/img/아키텍쳐.png" />
+      <img src="../resources/img/아키텍쳐.png" />
     </td>
     <td style="text-align:center;">
-      <img src="./resources/img/서비스.png" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <img src="./resources/img/CICD.png" />
-    </td>
-    <td style="text-align:center;">
-      <img src="./resources/img/Blue-Green-Deployment.png" />
+      <img src="../resources/img/서비스.png" />
     </td>
   </tr>
   <tr>
     <td style="text-align:center;">
-      <img src="./resources/img/모니터링.png" />
+      <img src="../resources/img/CICD.png" />
+    </td>
+    <td style="text-align:center;">
+      <img src="../resources/img/Blue-Green-Deployment.png" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">
+      <img src="../resources/img/모니터링.png" />
     </td>
   </tr>
 </table>
@@ -155,7 +155,7 @@
 <br/>
 
 ### ERD
-<img width="500px" src="./resources/img/ERD.png">
+<img width="500px" src="../resources/img/ERD.png">
 
 
 <br/>
@@ -186,9 +186,9 @@
     <th style="text-align: center;"><a href="https://github.com/maison01006">오승진</a></th>
   </tr>
   <tr>
-    <td style="text-align: center;"><img src="./resources/img/김민철.png" alt="" width="150px"/></td>
-    <td style="text-align: center;"><img src="./resources/img/배원빈.png" alt="" width="150px"/></td>
-    <td style="text-align: center;"><img src="./resources/img/오승진.png" alt="" width="150px" /></td>
+    <td style="text-align: center;"><img src="../resources/img/김민철.png" alt="" width="150px"/></td>
+    <td style="text-align: center;"><img src="../resources/img/배원빈.png" alt="" width="150px"/></td>
+    <td style="text-align: center;"><img src="../resources/img/오승진.png" alt="" width="150px" /></td>
   </tr>
   <tr>
     <td style="text-align: center;"><b>Frontend</b></td>
@@ -204,9 +204,9 @@
     <th style="text-align: center;"><a href="https://github.com/s2hoon">조수훈</a></th>
   </tr>
   <tr>
-    <td style="text-align: center;"><img src="./resources/img/방태연.png" alt="" width="150px" /></td>
-    <td style="text-align: center;"><img src="./resources/img/손지민.png" alt="" width="150px"/></td>
-    <td style="text-align: center;"><img src="./resources/img/조수훈.png" alt="" width="150px" /></td>
+    <td style="text-align: center;"><img src="../resources/img/방태연.png" alt="" width="150px" /></td>
+    <td style="text-align: center;"><img src="../resources/img/손지민.png" alt="" width="150px"/></td>
+    <td style="text-align: center;"><img src="../resources/img/조수훈.png" alt="" width="150px" /></td>
   </tr>
   <tr>
     <td style="text-align: center;"><b>Backend</b></td>
